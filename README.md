@@ -1,1 +1,1 @@
-# simple-python-scoket-chat
+# 파이썬 소켓 프로그래밍 채팅 프로그램 만들기 과제
